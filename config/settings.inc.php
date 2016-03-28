@@ -1,8 +1,8 @@
 <?php
-define('_DB_SERVER_', 'localhost:8889');
-define('_DB_NAME_', 'sushi_fukubi');
-define('_DB_USER_', 'root');
-define('_DB_PASSWD_', 'root');
+define('_DB_SERVER_', 'www.db4free.net:3306');
+define('_DB_NAME_', 'sushiminute');
+define('_DB_USER_', 'sushi');
+define('_DB_PASSWD_', 'qwerty123$%^');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
