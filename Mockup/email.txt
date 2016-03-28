@@ -1,0 +1,17 @@
+﻿Hi Quý,
+
+Chị gửi vài mockup cho version 1 của trang web sushi. Nhắc lại version 1 mình sẽ chỉ làm trang web bán sushi cho 1 nhà hàng duy nhất. Các chức năng thì như chị đã gửi trong bảng phân tích lần trước. 
+Em có thể bắt đầu từ homepage (xem mockup), về bố cục và design mình sẽ dựa trên trang này https://deliveroo.fr
+Nội dung và hình ảnh mình sẽ chỉnh sửa sau, hiện tại em cứ để hình và text tự do.
+Trong trang chủ sẽ có 1 ô "Code postale" để ng dùng nhập số vùng / địa chỉ họ muốn tìm nhà hàng (giống trang deliveroo). Về csdl chị nghĩ có thể lấy từ google map. Khi nhập code xong mình sẽ hiển thị menu tương ứng của nhà hàng đó. Trước mắt chỉ có 1 nhà hàng nên nếu nhập vùng chưa có nhà hàng tương ứng, em để 1 thông báo dạng như "Chúng tôi sẽ sớm giao đến vùng của bạn...."
+
+Phần còn lại là process order standard (đã có trong prestashop).
+
+Về template thì mình sẽ tích hợp design sau. Trước mắt cứ xong chức năng cơ bản đã.
+
+Về cách làm việc, chị đề nghị là mỗi tuần mình sẽ review và em demo cho chị về tiến độ trong tuần hé. Xem mình đi đúng hướng chưa và cần chỉnh sửa những gì. 
+
+Em có thể cho chị tài khoản, chị trả trước 1 phần tiền (2tr đc ko?), sau mỗi lần xong 1 version chị sẽ trả tiếp, ok ko em?
+
+Nếu em có câu hỏi gì thì feedback chị ngay hé.
+Good job.
