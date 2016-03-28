@@ -1,5 +1,5 @@
 <?php
-define('_DB_SERVER_', 'localhost:3306');
+define('_DB_SERVER_', 'db4free.net:3306');
 define('_DB_NAME_', 'sushiminute');
 define('_DB_USER_', 'sushi');
 define('_DB_PASSWD_', 'qwerty123$%^');
